@@ -27,8 +27,8 @@ The result is saved (by default) in `results/result_voice.mp4`. You can specify 
 
 Input Files
 ---
- - Audio [Input_Video](https://drive.google.com/file/d/1v1uthiVq20MfWpkV8LDOHJpudx49KYYx/view?usp=drive_link)
- - Video [Input_Audio](https://www.youtube.com/watch?v=YMuuEv37s0o&sub)
+ - Audio [Input_Audio](https://drive.google.com/file/d/1v1uthiVq20MfWpkV8LDOHJpudx49KYYx/view?usp=drive_link)
+ - Video [Input_Video](https://www.youtube.com/watch?v=YMuuEv37s0o&sub)
 
    - Note
      ---
