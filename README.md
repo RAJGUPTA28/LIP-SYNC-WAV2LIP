@@ -30,9 +30,13 @@ Input Files
  - Video [Input_Video]()
  - Audio [Input_Audio]()
 
+   - Note
+     ---
+        - Make sure all the frames in the video must have a face in it , other wise the model will return No face detected Error
+
 Output File
 ---
- - Final Video [result_video]()
+ - Final Video [result_video](https://drive.google.com/file/d/1rzS6IkmS6DVf36OOYnH6Qesk6zpJvglz/view?usp=drive_link)
 
 Variations
 --- 
@@ -44,6 +48,6 @@ ISSUES
 ---
 - The Pretrained model will only work if all the frames in the video must have a face in it
 - '''--box method unknown'''
-    -- Raised the issue -  https://github.com/Rudrabha/Wav2Lip/issues/42#issuecomment-1807015405
+    - Raised the issue -  https://github.com/Rudrabha/Wav2Lip/issues/42#issuecomment-1807015405
 
   
