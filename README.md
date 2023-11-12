@@ -38,11 +38,15 @@ Output File
 ---
  - Final Video [result_video](https://drive.google.com/file/d/1rzS6IkmS6DVf36OOYnH6Qesk6zpJvglz/view?usp=drive_link)
 
-Variations
---- 
-- NO SMOOTH ARGUMENT 
-- PADDING ARGUMENT
-- RESIZE FACTOR
+IMPROVEMENTS
+---
+We can bring significant Improvement in the output by adjusting the arguments bringing the change in below variations
+
+- Variations
+  --- 
+  - NO SMOOTH ARGUMENT 
+  - PADDING ARGUMENT
+  - RESIZE FACTOR
 
 ISSUES
 ---
