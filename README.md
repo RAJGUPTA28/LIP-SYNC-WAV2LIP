@@ -36,5 +36,14 @@ Output File
 
 Variations
 --- 
+- NO SMOOTH ARGUMENT 
+- PADDING ARGUMENT
+- RESIZE FACTOR
+
+ISSUES
+---
+- The Pretrained model will only work if all the frames in the video must have a face in it
+- '''--box method unknown'''
+    -- Raised the issue -  https://github.com/Rudrabha/Wav2Lip/issues/42#issuecomment-1807015405
 
   
