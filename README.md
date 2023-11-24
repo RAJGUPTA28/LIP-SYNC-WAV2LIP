@@ -51,7 +51,9 @@ We can bring significant Improvement in the output by adjusting the arguments br
 ISSUES
 ---
 - The Pretrained model will only work if all the frames in the video must have a face in it
-- '''--box method unknown'''
+- ```bash
+  --box method unknown
+  ```
     - Raised the issue -  https://github.com/Rudrabha/Wav2Lip/issues/42#issuecomment-1807015405
 
   
