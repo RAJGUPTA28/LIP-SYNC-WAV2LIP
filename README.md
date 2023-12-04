@@ -5,8 +5,9 @@ Creating an AI model that is proficient in lip-syncing i.e. synchronizing an aud
 
 Base Repository - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
 ------
-![IMG]()
-Pretrained Model Download 
+![IMG](https://github.com/RAJGUPTA28/LIP-SYNC-WAV2LIP/blob/main/lipsync-animation-cc-base-expression-data-4.jpeg)
+![ING](https://github.com/RAJGUPTA28/LIP-SYNC-WAV2LIP/blob/main/obama_lip_syncing_uw_1499864933490.webp)
+# Pretrained Model Download 
 
 | Model  | Description |  Link to the model | 
 | :-------------: | :---------------: | :---------------: |
