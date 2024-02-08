@@ -43,11 +43,7 @@ IMPROVEMENTS
 ---
 We can bring significant Improvement in the output by adjusting the arguments bringing the change in below variations
 
-- Variations
-  --- 
-  - NO SMOOTH ARGUMENT 
-  - PADDING ARGUMENT
-  - RESIZE FACTOR
+
 
 ISSUES
 ---
