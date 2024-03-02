@@ -1,6 +1,8 @@
 # LIP-SYNC-WAV2LIP
 ABOUT
 -----
+Creating an AI model that is proficient in lip-syncing i.e. synchronizing an audio file with a video file.
+
 
 Base Repository - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
 ------
