@@ -48,6 +48,7 @@ We can bring significant Improvement in the output by adjusting the arguments br
   --- 
   - NO SMOOTH ARGUMENT 
   - PADDING ARGUMENT
+  - RESIZE FACTOR
 
 
 ISSUES
